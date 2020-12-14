@@ -1,4 +1,8 @@
-
+---
+title: "Ajustes Comunes del módulo"
+description: "Configuraciones comunes dentro de Recurso y Actividades"
+titleBorder: true
+---
 ## Fabian Parra Fajardo
 ### Programmer/Analyst en Universidad Politécnica Salesiana
 #### Cuenca, Azuay, Ecuador
